@@ -1,0 +1,17 @@
+.jumbotron{
+	color: white;
+	background: #000 url("img/noticia5.jpg");
+	background-size: cover;
+	overflow: hidden;
+	height: 800px;
+}
+#map{
+	height: 400px;
+	width: 100%;
+}
+#contacto{
+	background: #000 url("img/18.jpg");
+}
+#nosotros{
+	background: #000 url("img/08.jpg");
+}
